@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/images/
+data/sample_cases.csv
+hasil_evaluasi_pmi.json
